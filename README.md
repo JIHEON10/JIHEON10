@@ -1,5 +1,2 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:7B68EE&height=200&section=header&text=Welcome%20to%20Seojin's%20GitHub!&fontSize=40&fontColor=ffffff" />
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:6A5ACD&height=150&section=footer" />
+<!-- PROFESSIONAL HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2e2e2e&height=140&section=header&text=Jiheon%20Jang%20·%20AI%20Developer&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=70" />
