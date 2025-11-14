@@ -1,2 +1,1 @@
-<!-- PROFESSIONAL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2e2e2e&height=140&section=header&text=Jiheon%20Jang%20·%20AI%20Developer&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:172554&height=180&section=header&text=Jiheon%20Lee%20·%20AI%20Developer&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
